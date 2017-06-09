@@ -6,3 +6,6 @@ Basically, I plan to keep updating the tools untill github STOPS then I will mov
 # What Can It Do ?
 It can sniff out all your saved passwords (sniffed passwords = Google Passwords)
 It sniffs out your entire search history
+
+# Requirements
+Wherever you have extracted the files make a new folder named "Files"
