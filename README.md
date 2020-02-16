@@ -3,8 +3,10 @@
 [![License](https://img.shields.io/github/license/navanchauhan/Automated-USB-Hacking.svg)]()
 ![Issues](https://img.shields.io/github/issues/navanchauhan/Automated-USB-Hacking.svg)
 
+*Update: I will restart development from March (hopefully)*
+
 This project is aimed to automate hacking by any medium which can read and write (sceptical about cds). Currently for Windows, different platforms coming soon.
-Special Thanks to Nir Sofer and the creator of LaZagne.
+Special thanks to Nir Sofer and the creator of LaZagne.
 Basically, I plan to keep updating the tools untill github STOPS then I will move somewhere else.
 
 # What Can It Do ?
